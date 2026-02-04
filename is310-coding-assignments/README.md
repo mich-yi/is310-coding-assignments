@@ -1,4 +1,4 @@
-# HELLO welcome to my coding assignments repo
+# hello! welcome to my coding assignments repo
 
 ## this is a subheading
 
