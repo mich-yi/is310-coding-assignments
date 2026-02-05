@@ -1,0 +1,9 @@
+read erik_transcript.txt  
+
+in his youtube video 
+"I Let Popular Food Companies Control My Diet For 7 Days,"  
+does erik the electric mention skippy more or oreo more?  
+
+pick your door  
+door_skippy → if skippy wins  
+door_oreo → if oreo wins  

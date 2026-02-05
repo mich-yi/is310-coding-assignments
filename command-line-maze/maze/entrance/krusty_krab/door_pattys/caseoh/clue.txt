@@ -1,0 +1,10 @@
+read caseoh_transcript.txt  
+
+welcome to the chip tier list courtroom  
+
+question  
+when caseoh is ranking snacks, does he say pringles more or cheetos more?  
+
+pick your door  
+door_pringles → if pringles wins  
+door_cheetos → if cheetos wins  
