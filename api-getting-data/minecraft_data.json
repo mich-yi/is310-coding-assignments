@@ -1,0 +1,9 @@
+{
+  "minecraft_server": {
+    "hostname": "mc.hypixel.net",
+    "players_online": 16017,
+    "players_max": 200000,
+    "version": "Requires MC 1.8 / 1.21"
+  },
+  "europeana_item": null
+}
